@@ -52,6 +52,7 @@ function draw(){
     background(48,22,8)
     textSize(20)
     text("Drag The Hexagon And Release It To Launch",150,100)
+    text("Press Space To Re-attach The Stone",500,200)
 
     Base1.display();
     Base2.display();
